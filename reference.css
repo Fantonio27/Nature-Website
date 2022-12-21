@@ -1,0 +1,100 @@
+/*NAVBAR CSS*/
+.logo{
+    font-family: 'Prompt', sans-serif;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.navbar-bgcolor{
+    background-color: #e9ecef;
+}
+.nav-link{
+    font-weight: 550;
+    color: #e9ecef!important;
+    font-family: 'Prompt', sans-serif;
+    font-size: 17px;
+    margin-top: 7px;
+}
+.nav-link:hover{
+    color: #FCA311!important;
+}
+.a{
+    color: #e9ecef!important;
+    text-decoration: none;
+}
+.a:hover{
+    color: #FCA311!important;
+}
+.active{
+    color: #FCA311 !important;
+}
+
+.mainpageheaderbg{
+    background-image: url(imgs/referencemasin.jpg);
+     background-position: center;
+     background-size: cover;
+}
+.mainpagetitle1{
+    font-size: 40px;
+    color: white;
+    margin-top: 200px;
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+}
+.mainpagetitle2{
+    font-size: 30px;
+    color: white;
+    margin-bottom: 280px;
+    text-align: center;
+    font-family: 'Prompt', sans-serif;
+}
+.contenttitle1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: #000000;
+    margin: 20px;
+}
+.content1{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: #000000;
+    margin: 20px;
+    margin-top: -10px;
+}
+/*FOOTER CSS*/
+.footertext1{
+    color: white;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext1B{
+    color: white;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext1C{
+    color: #ADB5BD;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext2{
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext3{
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.reference{
+    color: white;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: none;
+}
+.reference:hover{
+    color: #FCA311!important;
+    transition: ease 0.3s;
+}

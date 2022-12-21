@@ -1,0 +1,222 @@
+/*NAVBAR CSS*/
+.logo{
+    font-family: 'Prompt', sans-serif;
+    font-size: 25px;
+    margin-top: 10px;
+}
+.navbar-bgcolor{
+    background-color: #e9ecef;
+}
+.nav-link{
+    font-weight: 550;
+    color: #e9ecef!important;
+    font-family: 'Prompt', sans-serif;
+    font-size: 17px;
+    margin-top: 7px;
+}
+.nav-link:hover{
+    color: #7F5539!important;
+}
+.a{
+    color: #e9ecef!important;
+    text-decoration: none;
+}
+.a:hover{
+    color: #7F5539!important;
+}
+.active{
+    color: #7F5539 !important;
+}
+
+
+/*BACKGROUND IMAGES*/
+.headerbg{
+    background-image: url(imgs/exoticheader4.jpg);
+     background-position: center;
+     background-size: cover;
+}
+.bg1{
+    background-image: url(imgs/exoticland.jpg);
+     background-position: center;
+     background-size: cover;
+     height: 62vh;
+}
+.bg2{
+    background-image: url(imgs/exoticsea.jpg);
+     background-position: center;
+     background-size: cover;
+     height: 70vh;
+}
+.bg3{
+    background-image: url(imgs/exoticsky1.jpg);
+     background-position: center;
+     background-size: cover;
+     height: 62vh;
+}
+.bg4{
+    background-image: url(imgs/exoticsky2.jpg);
+     background-position: center;
+     background-size: cover;
+     height: 62vh;
+}
+
+/*TITLES*/
+.exoticpagetitle1{
+    font-family: 'Prompt', sans-serif;
+    font-size: 40px;
+    color: white;
+    margin-top: 200px;
+    text-align: center;
+}
+.exoticpagetitle2{
+    font-family: 'Prompt', sans-serif;
+    font-size: 25px;
+    color: white;
+    margin-bottom: 280px;
+    text-align: center;
+}
+
+/*LABELS*/
+.exoticlabel1{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+.exoticlabel1B{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+}
+.exoticlabel1C{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+.exoticlabel2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    margin: 20px;
+}
+.exoticlabel2B{
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    margin: 20px;
+}
+.exoticlabel3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 5px;
+}
+.exoticlabel3B{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: -10px;
+    margin-bottom: 5px;
+}
+
+/*Content*/
+.exoticpic1{
+    width: 250px;
+    align-items: center;
+}
+.exoticpic2{
+    height: 300px;
+    align-items: center;
+    margin: 10px;
+    box-shadow: 1px 1px 5px #2d2d2d;
+}
+
+/*DESCRIPTION*/
+.exoticdesc1{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: #adb5bd;
+    text-align: justify;
+    margin-top: 10px;    
+}
+.exoticdesc1B{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: #000000;
+    text-align: justify;
+    margin-top: 10px;    
+}
+.exoticdesc2{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: #adb5bd;
+    margin: 20px;
+    margin-top: -20px;
+}
+.exoticdesc2B{
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    color: #000000;
+    margin: 20px;
+    margin-top: -20px;
+}
+.exoticdesc3{
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    color: #adb5bd;
+    text-align: justify;
+    margin-bottom: 35px;
+}
+.exoticdesc3B{
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    color: #000000;
+    text-align: justify;
+    margin-bottom: 25px;
+}
+.marginA{
+    margin: 40px;
+}
+.marginB{
+    margin: 10px;
+}
+/*FOOTEER*/
+.footertext1{
+    color: white;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext1B{
+    color: white;
+    font-size: 17px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext1C{
+    color: #ADB5BD;
+    font-size: 14px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext2{
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.footertext3{
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.reference{
+    color: white;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-decoration: none;
+}
+.reference:hover{
+    color: #7F5539!important;
+    transition: ease 0.3s;
+}

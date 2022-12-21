@@ -1,0 +1,199 @@
+.bgcolor{
+    		background-color: #fbfbff;	
+    	}
+		.logo{
+		    font-family: 'Prompt', sans-serif;
+		    font-size: 25px;
+		    margin-top: 10px;
+		}
+		.navbar-bgcolor{
+		    background-color: #e9ecef;
+		}
+		.nav-link{
+		    font-weight: 550;
+		    color: #e9ecef!important;
+		    font-family: 'Prompt', sans-serif;
+		    font-size: 17px;
+		    margin-top: 7px;
+		}
+		.nav-link:hover{
+		    color: #7F5539!important;
+		}
+		.a{
+		    color: #e9ecef!important;
+		    text-decoration: none;
+		}
+		.a:hover{
+		    color: #7F5539 !important;
+		}
+		.active{
+			color: #7F5539 !important;
+		}
+
+		.exoticpagetitle1{
+			font-family: 'Prompt', sans-serif;
+			font-size: 40px;
+			color: white;
+			margin-top: 200px;
+			text-align: center;
+		}
+		.exoticpagetitle2{
+			font-family: 'Prompt', sans-serif;
+			font-size: 25px;
+			color: white;
+			margin-bottom: 280px;
+			text-align: center;
+		}
+		.headerbg{
+			background-image: url(pic/aware1.jpg);
+			 background-position: center;
+			 background-size: cover;
+		}
+    	.bg{
+    		background-image: url("pic/h2.jpg");
+    		background-size: cover;
+    		background-position: center;
+    		height: 600px;
+    	}
+    	.bgcolor1{
+    		background-color: #fefcfb;
+    	}
+
+    	.bg1,.bg2,.bg3{
+    		background-image: url("pic/i1.jpg");
+    		background-size: cover;
+    		background-position: center;
+    		height: 500px;
+    		width: 100%;
+    	}
+
+    	.bg2{
+    		background-image: url("pic/i2.jpg");
+    	}
+
+    	.bg3{
+    		background-image: url("pic/i3.jpg");
+    	}
+
+    	.bgcolor2{
+    		background-color: #fbfbff;	
+    	}
+		.box1{
+			width: 95%;
+			font-family: 'League Spartan', sans-serif;
+			font-size: 40px;
+			color:#343a40 ;	
+			padding: 150px 20px 30px 30px; 
+			text-align: left;
+		}
+
+		.p1, .p2, .p4 {
+			font-size: 20px;	
+			font-family: 'Sen', sans-serif;
+			text-align: justify;
+		}
+
+		.p2{
+			font-size: 18px;
+			margin: 0px 0px 0px 0px;
+			position: relative;
+			bottom: 10px;
+		}
+
+		.pic2{
+			width: 100%;
+			margin: 0px 0px 10px 0px;
+			background-size: cover;
+			background-image: url("pic/h1.jpg");
+			background-position: center;
+		}
+
+		.md{
+			height: 100px;
+			background-color: white;
+		}
+
+		.p3, .boxes, .box2, .box5{
+			font-family: 'Poppins', sans-serif;
+			font-size: 24px;
+			color:#343a40 ;	
+		}
+
+		.n{
+			padding: 0px;
+
+		}
+
+		.boxes{
+			color: white;
+			font-size: 30px;
+			width: 100%;
+			background-color: rgba(0,0,0,.4);
+			height: 500px;
+    		padding: 120px 50px 50px 50px;
+		}
+
+		.xl{
+			background-color: #fdd85d;
+			padding: 80px 30px 50px 30px ;
+		}
+
+		.box2{
+			width: 90%;
+			background-color: white;
+			border-radius: 20px;
+			text-align: left;
+			padding: 50px 35px 30px 35px;
+			font-size: max(2vw, 30px);
+		}
+
+		.pic5{
+			height: 300px;
+			width: 100%;
+			object-fit: contain;
+		}
+
+		.box5{
+			padding: 100px 30px 100px 30px ;
+			font-size: 40px;
+			color: #2d2a32;
+			position: relative;
+			z-index: 100px;
+		}
+		.footertext1{
+			color: white;
+			font-size: 20px;
+			font-family: 'Source Sans Pro', sans-serif;
+		}
+		.footertext1B{
+			color: white;
+			font-size: 17px;
+			font-family: 'Source Sans Pro', sans-serif;
+		}
+		.footertext1C{
+			color: #ADB5BD;
+			font-size: 14px;
+			font-family: 'Source Sans Pro', sans-serif;
+		}
+		.footertext2{
+			color: white;
+			margin-top: 20px;
+			font-size: 20px;
+			font-family: 'Source Sans Pro', sans-serif;
+		}
+		.footertext3{
+			color: white;
+			margin-top: 20px;
+			font-size: 20px;
+			font-family: 'Source Sans Pro', sans-serif;
+		}
+		.reference{
+			color: white;
+			font-size: 20px;
+			font-family: 'Source Sans Pro', sans-serif;
+			text-decoration: none;
+		}
+		.reference:hover{
+			color: #7F5539 !important;
+			transition: ease 0.3s;
+		}
